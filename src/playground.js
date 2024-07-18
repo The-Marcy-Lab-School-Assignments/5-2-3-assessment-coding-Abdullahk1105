@@ -6,3 +6,9 @@ const {
   Phone,
   AppleIPhone,
 } = require('./from-scratch');
+
+
+const bankAccountFactory = () => {
+  const account = [checkBalance , add, subtract]
+
+};
